@@ -4,7 +4,9 @@ This is a design for a lightweight face shield, made from laser-cut clear sheet 
 
 Popular [Prusa Face Shield](https://www.prusa3d.com/covid19/) requires 2+ hours to 3D print, with large nozzle and high speeds. It is comfortable to wear\* due to its wide band. There are designs with narrow head band, which print much faster (15-20 min) but aren't as comfortable with the narrow band.
 
-*IT HAS NOT BEEN EVALUATED FOR EFFECTIVENESS BY ANY MEDICAL AUTHORITY* It does, however, have similar dimensions to many of the shields out there.
+![Face Shield](Images/Face Shield.jpg)
+
+*THIS SHIELD HAS NOT BEEN EVALUATED FOR EFFECTIVENESS BY ANY MEDICAL AUTHORITY* It does, however, have similar dimensions to many of the shields out there.
 
 Sheet plastic can be polystyrene or polycarbonate\*, 0.015" to 0.030"\* in thickness and 12" (300mm) square in size. Other materials and thicknesses may be usable. The sheet should comply nicely with the curved shape but not fold freely.
 PETG\* 3D-printed specialized screw can be replaced with rivets if a 3D printer is not available.
