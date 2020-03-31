@@ -8,8 +8,9 @@ Popular [Prusa Face Shield](https://www.prusa3d.com/covid19/) requires 2+ hours 
 
 *THIS SHIELD HAS NOT BEEN EVALUATED FOR EFFECTIVENESS BY ANY MEDICAL AUTHORITY* It does, however, have similar dimensions to many of the shields out there.
 
-Sheet plastic can be polystyrene or polycarbonate\*, 0.015" to 0.030"\* in thickness and 12" (300mm) square in size. Other materials and thicknesses may be usable. The sheet should comply nicely with the curved shape but not fold freely.
+Sheet plastic can be polystyrene or polycarbonate\*, 0.015" to 0.030"\* in thickness and 12" (30cm) square in size. Other materials and thicknesses may be usable. The sheet should comply nicely with the curved shape but not fold freely.
 PETG\* 3D-printed specialized screw can be replaced with rivets if a 3D printer is not available.
+1" (25mm) elastic band, about 12" (30cm) is used to keep the face shield tight, yet comfortable.
 
 Feel free to fork or contribute in any way. Feedback is welcome.
 
