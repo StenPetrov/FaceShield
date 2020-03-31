@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24mm"
+   height="24mm"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="Screw Star.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.313709"
+     inkscape:cx="50.150606"
+     inkscape:cy="3.9479864"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-273)">
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.24999999;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.49999994, 0.24999999;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 8.354037,273.1251 c -0.533604,-0.0137 -1.8661629,1.65034 -2.3543549,1.65038 -0.512202,3e-5 -1.9540951,-1.83154 -2.4272961,-1.63549 -0.473201,0.19605 -0.197377,2.51073 -0.559536,2.87294 -0.362159,0.36222 -2.67677897,0.0867 -2.87275997,0.55998 -0.195982,0.47324 1.63572997,1.91493 1.63576297,2.42715 3.2e-5,0.51221 -1.83159097,1.95414 -1.63554897,2.42736 0.196041,0.47321 2.51076997,0.19738 2.87297497,0.55955 0.362205,0.36216 0.08663,2.67695 0.559857,2.87294 0.473226,0.19599 1.9148791,-1.63577 2.4270811,-1.63581 0.512203,-3e-5 1.9540959,1.83153 2.4272959,1.63549 0.473201,-0.19605 0.197377,-2.51073 0.559536,-2.87294 0.362159,-0.36222 2.676887,-0.0867 2.872867,-0.55998 0.195982,-0.47324 -1.63573,-1.91493 -1.635762,-2.42715 -3.3e-5,-0.51221 1.831483,-1.95414 1.635441,-2.42736 -0.196041,-0.47321 -2.510662,-0.19738 -2.872867,-0.55955 -0.362205,-0.36217 -0.08674,-2.67695 -0.559964,-2.87294 -0.02218,-0.009 -0.04648,-0.0139 -0.07273,-0.0146 z"
+       id="path4518"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:1.32932925;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:7.97597572, 1.32932931;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4522"
+       sodipodi:sides="8"
+       sodipodi:cx="118.19995"
+       sodipodi:cy="52.782475"
+       sodipodi:r1="33.511433"
+       sodipodi:r2="26.809147"
+       sodipodi:arg1="0.6068057"
+       sodipodi:arg2="0.99950478"
+       inkscape:flatsided="false"
+       inkscape:rounded="0.3"
+       inkscape:randomized="0"
+       d="m 145.72871,71.892246 c -2.30598,3.321907 -9.63085,1.255592 -13.03254,3.442172 -3.4017,2.18658 -4.56357,9.708114 -8.54309,10.42648 -3.97952,0.718366 -7.69789,-5.922208 -11.64939,-6.78142 -3.9515,-0.859213 -10.0916,3.637742 -13.413511,1.331759 -3.321907,-2.305984 -1.255591,-9.630859 -3.442171,-13.032549 -2.18658,-3.40169 -9.708114,-4.563569 -10.42648,-8.543088 -0.718366,-3.97952 5.922208,-7.697883 6.78142,-11.649386 0.859213,-3.951504 -3.637743,-10.091604 -1.331759,-13.413511 2.305984,-3.321907 9.630861,-1.255592 13.032551,-3.442172 3.40169,-2.18658 4.56357,-9.708114 8.54309,-10.42648 3.97952,-0.718366 7.69788,5.922208 11.64938,6.78142 3.95151,0.859213 10.09161,-3.637742 13.41351,-1.331759 3.32191,2.305984 1.25559,9.630859 3.44217,13.032549 2.18658,3.40169 9.70812,4.563569 10.42648,8.543088 0.71837,3.97952 -5.9222,7.697883 -6.78142,11.649386 -0.85921,3.951504 3.63775,10.091604 1.33176,13.413511 z"
+       transform="matrix(0.15808096,0.10187623,-0.10187623,0.15808096,-7.3078814,270.61433)" />
+  </g>
+</svg>
