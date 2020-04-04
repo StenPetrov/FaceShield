@@ -6,7 +6,7 @@ This is a design for a lightweight face shield, made from laser-cut clear sheet 
 
 ![Elastic band](Images/Band%20hookup.jpg)
 
-*THIS SHIELD HAS NOT BEEN EVALUATED FOR EFFECTIVENESS BY ANY MEDICAL AUTHORITY* It does, however, have similar dimensions to many of the shields out there.
+The shield was approved for use by Seattle Overlake hospital.
 
 Popular [Prusa Face Shield](https://www.prusa3d.com/covid19/) requires 2+ hours to 3D print, with large nozzle and high speeds. It is comfortable to wear\* due to its wide band. There are designs with narrow head band, which print much faster (15-30 min) but aren't as comfortable with the narrow band.
 
